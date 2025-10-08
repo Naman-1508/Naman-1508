@@ -35,10 +35,6 @@ I'm an aspiring software developer and Computer Science (Cyber Security) undergr
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naman-1508&layout=compact&theme=radical" alt="Top Languages" height="165">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naman-1508&theme=radical" alt="GitHub Streak">
-</p>
-
 ---
 
 ## 🎯 Featured Projects
@@ -120,6 +116,8 @@ Developed frontend UI for a sneaker e-commerce mobile app using Flutter. Designe
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
 
