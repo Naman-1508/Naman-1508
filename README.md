@@ -191,9 +191,6 @@ Arduino-based smart elevator prototype selected for presentation at the National
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Naman-1508&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
 
 <p align="center">
   <em>💼 Open to internship and full-time opportunities</em>
