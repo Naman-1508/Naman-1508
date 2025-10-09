@@ -75,7 +75,6 @@ Developed during MSRIT internship. A Flutter-based Travel Booking App UI with cl
 ---
 
 ### 👟 [Kikify](https://github.com/Naman-1508/Kikify)
-**Ongoing**
 
 Developed frontend UI for a sneaker e-commerce mobile app using Flutter. Designed product listing screens, detail pages, and a basic cart UI.
 
