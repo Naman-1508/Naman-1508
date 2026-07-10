@@ -2,7 +2,7 @@
 
 <!-- Animated typing header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Naman+Jain+%F0%9F%91%8B;Cyber+Security+%2B+Full+Stack+Developer;Building+XTI-SOC+%7C+RoadIntel+%7C+HealTrip; Currently+@+HPE+-+Secure+Boot+%26+Firmware;270%2B+LeetCode+Problems+Solved" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Naman+Jain+%F0%9F%91%8B;Cyber+Security+%2B+Full+Stack+Developer;Building+XTI-SOC+%7C+RoadIntel+%7C+HealTrip;Currently+@+HPE+-+Secure+Boot+%26+Firmware;270%2B+LeetCode+Problems+Solved" alt="Typing SVG" />
 </a>
 
 <!-- Animated wave banner -->
