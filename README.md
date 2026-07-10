@@ -1,25 +1,28 @@
 <div align="center">
 
+<!-- Profile picture, pulled live from GitHub -->
+<img src="https://github.com/Naman-1508.png" width="150" height="150" alt="Naman Jain"/>
+
 <!-- Animated typing header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Naman+Jain+%F0%9F%91%8B;Cyber+Security+%2B+Full+Stack+Developer;Building+XTI-SOC+%7C+RoadIntel+%7C+HealTrip;Currently+%40+HPE+-+Secure+Boot+%26+Firmware;270%2B+LeetCode+Problems+Solved" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FF2E9F&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Naman+Jain+%F0%9F%91%8B;Cyber+Security+%2B+Full+Stack+Developer;Building+XTI-SOC+%7C+RoadIntel+%7C+HealTrip;Currently+%40+HPE+-+Secure+Boot+%26+Firmware;270%2B+LeetCode+Problems+Solved" alt="Typing SVG" />
 </a>
 
 <!-- Animated wave banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7B2FF7&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.E.%20CSE%20(Cyber%20Security)%20%40%20MSRIT%20Bangalore&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2E9F,50:7B2FF7,100:00F7FF&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.E.%20CSE%20(Cyber%20Security)%20%40%20MSRIT%20Bangalore&descAlignY=55&descSize=18" width="100%"/>
 
 </div>
 
 <!-- ============ SOCIAL BADGES ============ -->
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Naman-1508)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/naman-jain-123681317)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://naman-portfolio-lac-two.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-FF2E9F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Naman-1508)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7B2FF7?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/naman-jain-123681317)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black)](https://naman-portfolio-lac-two.vercel.app/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ZWCMA2Saw6/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:namanjain01508@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=Naman-1508&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Naman-1508&label=Profile%20Views&color=FF2E9F&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
@@ -46,20 +49,16 @@
 
 <div align="center">
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,py,js,ts,react,nextjs,nodejs,express,mongodb,html,css,fastapi,git,github,vscode&theme=dark&perline=9" />
-</a>
+<img src="https://skillicons.dev/icons?i=java,c,cpp,py,js,ts,react,nextjs,nodejs,express,mongodb,html,css,fastapi,git,github,vscode&theme=dark&perline=9" />
 
 <br/><br/>
 
-![XGBoost](https://img.shields.io/badge/XGBoost-005A9C?style=for-the-badge)
-![SHAP](https://img.shields.io/badge/SHAP-7A1FA2?style=for-the-badge)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF2E9F?style=for-the-badge)
+![SHAP](https://img.shields.io/badge/SHAP-7B2FF7?style=for-the-badge)
 ![Scapy](https://img.shields.io/badge/Scapy-121011?style=for-the-badge&logo=python&logoColor=white)
-![Scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+![Scikit--learn](https://img.shields.io/badge/scikit--learn-00F7FF?style=for-the-badge&logo=scikitlearn&logoColor=black)
+![YOLO](https://img.shields.io/badge/YOLO-FF2E9F?style=for-the-badge&logo=yolo&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-*Hover over the icons above — they animate on hover ↑*
 
 </div>
 
@@ -167,24 +166,12 @@ MSRIT Internship Project
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Naman-1508&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naman-1508&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Naman-1508&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naman-1508&layout=compact&theme=radical&hide_border=true"/>
 
-<img src="https://streak-stats.demolab.com?user=Naman-1508&theme=tokyonight&hide_border=true" alt="streak stats"/>
+<img src="https://streak-stats.demolab.com?user=Naman-1508&theme=radical&hide_border=true" alt="streak stats"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Naman-1508&theme=tokyo-night&hide_border=true" width="90%"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Naman-1508/Naman-1508/output/github-contribution-grid-snake.svg" width="100%"/>
-
-<sub>⚙️ The snake animates your real contribution graph — it needs a **one-time GitHub Actions setup** (steps below).</sub>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Naman-1508&theme=radical&hide_border=true" width="90%"/>
 
 </div>
 
@@ -198,7 +185,7 @@ MSRIT Internship Project
 - 💻 **270+ LeetCode Problems Solved**
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Naman-1508&theme=darkhub&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=Naman-1508&theme=radical&no-frame=true&row=1&column=6" />
 </div>
 
 ---
@@ -207,7 +194,7 @@ MSRIT Internship Project
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
@@ -224,6 +211,6 @@ I'm always open to discussing cybersecurity, ML, and full-stack projects — fee
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,100:00F7FF&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7B2FF7,100:FF2E9F&height=100&section=footer" width="100%"/>
 
 </div>
