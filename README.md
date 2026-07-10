@@ -1,202 +1,193 @@
-<h1 align="center">Hi 👋, I'm Naman Jain</h1>
-<h3 align="center">Computer Science Student | Full-Stack Developer | Cyber Security Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  <em>Building innovative solutions with modern technologies. Passionate about problem-solving and creating impactful applications.</em>
-</p>
+<!-- Animated typing header -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Naman+Jain+%F0%9F%91%8B;Cyber+Security+%2B+Full+Stack+Developer;Building+XTI-SOC+%7C+RoadIntel+%7C+HealTrip;Currently+@+HPE+-+Secure+Boot+%26+Firmware;270%2B+LeetCode+Problems+Solved" alt="Typing SVG" />
+</a>
 
-<p align="center">
-  <a href="https://github.com/Naman-1508"><img src="https://img.shields.io/github/followers/Naman-1508?label=Follow&style=social" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/naman-jain-123681317/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://leetcode.com/u/ZWCMA2Saw6/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black" alt="LeetCode"></a>
-  <a href="mailto:namanjain01508@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white" alt="Email"></a>
-  <a href="https://naman-portfolio-lac-two.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio"></a>
-</p>
+<!-- Animated wave banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7B2FF7&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.E.%20CSE%20(Cyber%20Security)%20%40%20MSRIT%20Bangalore&descAlignY=55&descSize=18" width="100%"/>
+
+</div>
+
+<!-- ============ SOCIAL BADGES ============ -->
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Naman-1508)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/naman-jain-123681317)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://naman-portfolio-lac-two.vercel.app/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ZWCMA2Saw6/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:namanjain01508@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=Naman-1508&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-I'm an aspiring software developer and Computer Science (Cyber Security) undergraduate from **MS Ramaiah Institute of Technology** with a strong **CGPA of 9.02/10.0**. My passion lies in creating innovative solutions through code.
+<img align="right" alt="Coding gif" width="320" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript-Dark.svg" style="display:none;"/>
 
-- 🔭 Currently working on **RoadIntel**, **GuardianQuest**, and **Jarvis**
-- 🌱 Learning **Full-Stack Development** (React.js, Node.js) and **Generative AI**
-- 💪 **100+ problems** solved on LeetCode with active participation in weekly contests
-- 🎯 Exploring **mobile development** with Flutter and **cybersecurity** concepts
-- 📫 Reach me at **namanjain01508@gmail.com**
-- 🌐 Portfolio: [naman-portfolio-lac-two.vercel.app](https://naman-portfolio-lac-two.vercel.app)
+- 🎓 B.E. **Computer Science & Engineering (Cyber Security)** @ MSRIT, Bangalore — **CGPA: 9.07/10**
+- 🔐 Currently a **Career Preview Program Intern @ Hewlett Packard Enterprise (HPE)**, working on **PUMA-Boot** — a secure UEFI-based node provisioning framework for HPC clusters
+- 🧠 Exploring **firmware-level attestation, TPM-based verification & post-quantum cryptography**
+- ⚡ Built **XTI-SOC**, an Explainable AI Security Operations framework trained on **9.7M+ network flows**
+- 📄 Published research at **IEEE ICCECE 2026**
+- 🏆 Top 12 / 170+ teams at **WHACKIEST'25 Hackathon**
+- 📈 Solved **270+ problems** on LeetCode
+- 💬 Ask me about: Network Security, ML for Cybersecurity, Full-Stack Development, Firmware Security
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Full Stack**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Security & ML**
+
+![Scapy](https://img.shields.io/badge/Scapy-121011?style=for-the-badge&logo=python&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-005A9C?style=for-the-badge)
+![Scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🛡️ [XTI-SOC](https://github.com/XTI-SOC/project/tree/new-version)
+Explainable AI Security Operations Framework
+
+`Python` `FastAPI` `Next.js` `XGBoost` `SHAP` `Scapy`
+
+- Real-time packet capture + ML intrusion detection
+- Trained on 9.7M+ labeled flows (CICIDS2018)
+- 0.83 ROC-AUC dual-pipeline XGBoost classifier
+- SHAP-powered explainable alerts
+- Sub-100ms end-to-end latency dashboard
+
+</td>
+<td width="50%">
+
+### 🚦 [RoadIntel](https://github.com/Naman-1508/RoadIntel)
+AI Traffic Intelligence Platform
+
+`React` `Node.js` `YOLO` `Gemini API` `Leaflet`
+
+- Geolocated real-time traffic incident reporting
+- YOLO-based vehicle detection from video
+- Gemini API for AI severity classification
+- 📄 Published at **IEEE ICCECE 2026**
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🏥 [HealTrip](https://github.com/Naman-1508/HealTrip)
+AI Medical Tourism Platform
+
+`React` `FastAPI` `MongoDB Atlas` `Stripe` `Razorpay`
+
+- Connects international patients with verified hospitals
+- ML microservice for hospital ranking
+- Secure global payments (Stripe + Razorpay)
+- 🏆 Top 12/170+ teams @ WHACKIEST'25
+
+</td>
+<td width="50%">
+
+### ✈️ Flutter Travel Booking App
+MSRIT Internship Project
+
+`Flutter` `Dart` `Material Design`
+
+- Responsive travel booking UI
+- Modular, reusable widget architecture
+- Built during Flutter Dev Internship, MSRIT
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Naman-1508&show_icons=true&theme=radical" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naman-1508&layout=compact&theme=radical" alt="Top Languages" height="165">
-</p>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Naman-1508&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naman-1508&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Naman-1508&theme=tokyonight&hide_border=true" alt="streak stats"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Naman-1508&theme=tokyo-night&hide_border=true" width="90%"/>
+
+</div>
 
 ---
 
-## 🎯 Featured Projects
+## 🏆 Achievements
 
-### 🛣️ [RoadIntel](https://github.com/Naman-1508/RoadIntel)
-**In Development**
+- 📄 **IEEE Publication** — *Road Intelligence System for Real-Time Hazard Detection and Navigation Assistance*, IEEE ICCECE 2026
+- 🥈 **Top 12 / 170+ Teams** — WHACKIEST'25 Hackathon, CodeRit Club MSRIT
+- 🎯 **National Round Selection** — NCSC, Smart Elevator Project
+- 💻 **270+ LeetCode Problems Solved**
 
-RoadIntel is a smart traffic and accident reporting platform that allows users to register, report accidents with details, and track incidents in real-time. It ensures safety awareness by providing a secure, user-friendly interface with backend-powered data management
-
-**Tech Stack:** React • TypeScript • Tailwind CSS • Node.js • Express.js • MongoDB • JWT
-
----
-
-### 🎮 [GuardianQuest](https://github.com/Naman-1508/GuardianQuest)
-**In Development**
-
-Guardian Quest is a platform that uses generative AI to help children in hospitals and orphanages create stories and games, offering emotional support, creative expression, and moments of joy during challenging times
-**Tech Stack:** React • TypeScript • Tailwind CSS • Node.js • Express.js • JWT • MongoDB
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Naman-1508&theme=darkhub&no-frame=true&row=1&column=6" />
+</div>
 
 ---
 
-### 🤖 [Jarvis](https://github.com/Naman-1508/Jarvis)
-**In Development**
+## 📫 Let's Connect
 
-“Jarvis is a customizable AI virtual assistant built in Python that automates tasks using speech recognition and text-to-speech.”
+<div align="center">
 
-**Tech Stack:** Python • APIs
+I'm always open to discussing cybersecurity, ML, and full-stack projects — feel free to reach out!
 
----
+[![Gmail](https://img.shields.io/badge/-namanjain01508@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:namanjain01508@gmail.com)
+[![Phone](https://img.shields.io/badge/-9509472256-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:9509472256)
 
-### 🏨 Travel Booking App UI
-**August 2024**
+<br/>
 
-Developed during MSRIT internship. A Flutter-based Travel Booking App UI with clean and responsive layouts for browsing destinations, selecting dates, and viewing trip details.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,100:00F7FF&height=100&section=footer" width="100%"/>
 
-**Tech Stack:** Flutter • Dart
-
----
-
-### 👟 [Kikify](https://github.com/Naman-1508/Kikify)
-
-Developed frontend UI for a sneaker e-commerce mobile app using Flutter. Designed product listing screens, detail pages, and a basic cart UI.
-
-**Tech Stack:** Flutter • Dart
-
----
-
-## 💻 Technical Skills
-
-### Languages
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
-
-### Web Development
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-
-### Mobile Development
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
-
-### Databases
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-
-### Tools & Platforms
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
----
-
-## 🎓 Education
-
-**B.E. Computer Science and Engineering (Cyber Security)**  
-MS Ramaiah Institute of Technology, Bangalore  
-**CGPA:** 9.02 / 10.0  
-
-**Class 12th - PCM Stream**  
-St. Anthony's Sr. Secondary School, Udaipur  
-**Percentage:** 87%  
-
-**Class 10th**  
-St. Anthony's Sr. Secondary School, Udaipur  
-**Percentage:** 94%  
-
----
-
-## 📜 Certifications
-
-🏆 **Data Structures and Algorithms** - Infosys Springboard  
-🏆 **Introduction to MongoDB** - MongoDB, Inc. (MongoDB University)  
-🏆 **Google Cloud Batch Program - Beginner Generative AI** - Google Cloud Platform *(Ongoing)*
-
----
-
-## 💼 Experience
-
-### Software Development Intern
-**MS Ramaiah Institute of Technology** | *August 2024* | *On-site*
-
-- Built a Flutter-based Travel Booking App UI with clean and responsive layouts
-- Designed intuitive interfaces for browsing destinations, selecting dates, and viewing trip details
-- Focused on frontend development with emphasis on user experience and modern design patterns
-- Collaborated with team members to deliver high-quality mobile application designs
-
----
-
-## 🏆 Notable Achievements
-
-### Smart Elevator Project
-**National Children Science Congress (NCSC)**
-
-Arduino-based smart elevator prototype selected for presentation at the National Children Science Congress. Led the technical presentation and explained design decisions during the evaluation process.
-
-**Tech Stack:** Arduino • C++ • Team Project • National Level
-
----
-
-## 📈 LeetCode Stats
-
-- 💡 **100+ problems** solved
-- 🎯 Active participation in **weekly contests**
-- 🔥 Continuously improving problem-solving skills
-
----
-
-## 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/Naman-1508" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/naman-jain-123681317/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://leetcode.com/u/ZWCMA2Saw6/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-</p>
-
-📧 **Email:** namanjain01508@gmail.com  
-📱 **Phone:** +91 9509472256  
-🌐 **Portfolio:** [naman-portfolio-lac-two.vercel.app](https://naman-portfolio-lac-two.vercel.app)  
-📍 **Location:** Bangalore, India  
-
----
-
-
-<p align="center">
-  <em>💼 Open to internship and full-time opportunities</em>
-</p>
-
----
-
-<p align="center">
-  <sub>Built with ❤️ by Naman Jain</sub>
-</p>
+</div>
